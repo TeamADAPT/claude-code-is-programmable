@@ -16,6 +16,7 @@ logs
 # Misc
 .DS_Store
 .fleet
+temp_auto_push.bat
 .idea
 
 # Local env files
@@ -34,4 +35,5 @@ specs/
 
 **/.claude/settings.local.json
 
-output/
+output/.gitignore
+branch_structure.json
